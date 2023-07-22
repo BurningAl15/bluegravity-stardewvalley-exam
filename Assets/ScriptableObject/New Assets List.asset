@@ -1,0 +1,294 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02d80bbd43a3749dc99ccfc24c725564, type: 3}
+  m_Name: New Assets List
+  m_EditorClassIdentifier: 
+  animGroup:
+  - upSprites:
+      hairSprites:
+      - {fileID: -740301034, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 1722644481, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -910859385, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 1511362069, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      headSprites:
+      - {fileID: -782833375, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 2036880718, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -1210976150, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 1120519799, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      bodySprites:
+      - {fileID: -1211553122, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 284604993, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 1110102876, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -1658004667, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      armsSprites:
+      - {fileID: 1248033513, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 1937963, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 1908707385, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 2059353357, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      legsSprites:
+      - {fileID: 798633916, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 749490188, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -1472195340, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -2066980717, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      shoesSprites:
+      - {fileID: 995235947, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -666591153, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -411489281, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -461696233, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+    downSprites:
+      hairSprites:
+      - {fileID: -947005696, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -12459074, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 1571268644, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 2036638612, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      headSprites:
+      - {fileID: -1276206610, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -1965562464, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 281751669, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -232924438, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      bodySprites:
+      - {fileID: 360165972, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 1097147421, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -1907635681, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 258571259, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      armsSprites:
+      - {fileID: 1058771941, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 1189383490, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -339983113, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 1001661562, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      legsSprites:
+      - {fileID: -715379938, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 348478386, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -116668962, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 378362775, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      shoesSprites:
+      - {fileID: 365886043, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -1992986224, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 249737137, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -504717722, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+    horizontalSprites:
+      hairSprites:
+      - {fileID: 828657358, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -743287712, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 725438059, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 1548772338, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      headSprites:
+      - {fileID: -1371720159, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 1319067339, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 1413523708, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 805991219, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      bodySprites:
+      - {fileID: -595107399, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -2024139959, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 760599941, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 953586071, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      armsSprites:
+      - {fileID: 162297566, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -2084859146, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -201914498, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 242082048, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      legsSprites:
+      - {fileID: -2065631707, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 437494983, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 927183252, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -1301169138, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      shoesSprites:
+      - {fileID: -1224140887, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -1389704061, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -67783467, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -1430862633, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+  - upSprites:
+      hairSprites:
+      - {fileID: 161393190, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -1168078678, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -2004201940, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 2044043104, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      headSprites:
+      - {fileID: -782833375, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 2036880718, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -1210976150, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 1120519799, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      bodySprites:
+      - {fileID: 473981386, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -788367632, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 978988801, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 457016918, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      armsSprites:
+      - {fileID: -1526573546, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 674478516, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -200644606, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 394631510, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      legsSprites:
+      - {fileID: -1771020245, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -1601754496, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -400495570, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -345135039, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      shoesSprites:
+      - {fileID: 2136612151, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 240439015, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 2026805365, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -1484790301, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+    downSprites:
+      hairSprites:
+      - {fileID: 2125040130, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -967320214, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 1053265087, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 407477041, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      headSprites:
+      - {fileID: -1276206610, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -1965562464, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 281751669, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -232924438, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      bodySprites:
+      - {fileID: -766246406, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 672297339, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 1441978314, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -1959459144, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      armsSprites:
+      - {fileID: -2078090055, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -1071952077, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -1543524898, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -147188031, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      legsSprites:
+      - {fileID: 1284161694, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -216798634, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -731120412, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 32523539, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      shoesSprites:
+      - {fileID: 236552323, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 278111910, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 1731805071, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 117314334, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+    horizontalSprites:
+      hairSprites:
+      - {fileID: -1541864069, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -1075429848, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 237358088, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -1841732345, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      headSprites:
+      - {fileID: -1371720159, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 1319067339, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 1413523708, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 805991219, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      bodySprites:
+      - {fileID: -1308161378, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 691444841, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -1751722332, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -106092547, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      armsSprites:
+      - {fileID: 434078870, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -1226251716, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -1210750667, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 1565310194, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      legsSprites:
+      - {fileID: 347512545, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 2138212478, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 68010338, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 1480489700, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      shoesSprites:
+      - {fileID: -1734952519, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 1861477844, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 1177959547, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 760959392, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+  - upSprites:
+      hairSprites:
+      - {fileID: 1213557095, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -337459553, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -1785720756, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 2084493632, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      headSprites:
+      - {fileID: -782833375, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 2036880718, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -1210976150, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 1120519799, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      bodySprites:
+      - {fileID: 1369055843, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -1825063558, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -539350794, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -1211503236, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      armsSprites:
+      - {fileID: -396036843, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -510401065, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 1674851037, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -1118723062, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      legsSprites:
+      - {fileID: 935830552, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -1645985772, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 1996381340, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 1643204821, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      shoesSprites:
+      - {fileID: -1072838147, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -683766585, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -516534637, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -1333810786, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+    downSprites:
+      hairSprites:
+      - {fileID: -902487030, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -2030438608, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 1442898413, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 1306165316, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      headSprites:
+      - {fileID: -1276206610, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -1965562464, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 281751669, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -232924438, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      bodySprites:
+      - {fileID: -2090426996, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -871436, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 384615496, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -945287164, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      armsSprites:
+      - {fileID: 1949446667, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -1426143762, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 1109982422, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 292366062, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      legsSprites:
+      - {fileID: 353949345, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 59219507, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 1060174784, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -975688513, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      shoesSprites:
+      - {fileID: -1835069604, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 1536784762, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -1238551940, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -1674977874, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+    horizontalSprites:
+      hairSprites:
+      - {fileID: -1874312830, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -123747803, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 1339210283, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 842207015, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      headSprites:
+      - {fileID: -1371720159, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 1319067339, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 1413523708, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 805991219, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      bodySprites:
+      - {fileID: 1293990955, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 1764765856, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 2017889116, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -917073944, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      armsSprites:
+      - {fileID: 948066067, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -1403362214, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 1153664707, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -556373659, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      legsSprites:
+      - {fileID: 134942216, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 452255836, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 870333804, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 742347949, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      shoesSprites:
+      - {fileID: 679993525, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: -50562872, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 1163126088, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
+      - {fileID: 375799330, guid: 62db6784b8ada44cb893eeedb78c4e36, type: 3}
